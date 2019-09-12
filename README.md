@@ -1,10 +1,18 @@
 # TextRecognition
-Text Recognition for Android App using Firebase ML Kit
-
-
 This is an android app that make use of the Firebase ML Kit
 
-You can select an already captured image or capture a new image to scan. With this app you can save the recognized text to a databse to access later,you can also copy the recognized text to the clipboard, share the recognized text, and also export the text as a .txt format to your documents folder
+You can select an image from gallery or capture a new image to scan. With this app you can save the recognized text to the databse to access later,you can also copy the recognized text to the clipboard, share the recognized text, and also export the text as a .txt format to your documents folder
+
+## Sdk Requirements
+ * Minimum SDK Requirement - android API 21 (Lollipop)
+ * Target SDK - android API 28 (Pie)
+
+
+## Installation
+Clone this repository and import into android studio
+
+`(git clone https://github.com/AyusmaTech/TextRecognition.git)`
+
 
 ## Screenshots
 
@@ -20,4 +28,12 @@ You can select an already captured image or capture a new image to scan. With th
 
 
 <a href="https://imgflip.com/gif/39zb79"><img src="https://i.imgflip.com/39zb79.gif" title="made at imgflip.com"/></a>
+
+## Third-Party Dependencies
+
+[CameraKit](https://github.com/CameraKit/camerakit-android "CameraKit")
+
+[MediaPicker](https://github.com/alhazmy13/MediaPicker "MediaPicker")
+
+[ML Kit for Firebase](https://github.com/firebase/quickstart-android/tree/master/mlkit "ML Kit for Firebase")
 
