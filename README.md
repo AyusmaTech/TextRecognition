@@ -11,7 +11,7 @@ You can select an image from gallery or capture a new image to scan. With this a
 ## Installation
 Clone this repository and import into android studio
 
-`(git clone https://github.com/AyusmaTech/TextRecognition.git)`
+`git clone https://github.com/AyusmaTech/TextRecognition.git`
 
 
 ## Screenshots
