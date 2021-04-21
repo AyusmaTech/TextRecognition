@@ -17,10 +17,10 @@ Clone this repository and import into android studio
 ## Screenshots
 
 
-<img src="https://user-images.githubusercontent.com/45299298/64482781-1f5c2700-d1f0-11e9-8d36-cb62c785eac1.png" width="200" />
+<img src="https://user-images.githubusercontent.com/45299298/64482781-1f5c2700-d1f0-11e9-8d36-cb62c785eac1.png" width="300" />
 
 
-<img src="https://user-images.githubusercontent.com/45299298/64482780-1ec39080-d1f0-11e9-87cf-946ab94f38e3.png" width="200" />
+<img src="https://user-images.githubusercontent.com/45299298/64482780-1ec39080-d1f0-11e9-87cf-946ab94f38e3.png" width="300" />
 
 
 ## Gif
